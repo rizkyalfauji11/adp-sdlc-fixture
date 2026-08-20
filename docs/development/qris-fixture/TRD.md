@@ -15,6 +15,7 @@ _Approved: 2026-08-19_
 None. The fixture depends on nothing.
 
 ## 3. System design
+_Approved: 2026-08-19_
 
 Deliberately unapproved, so the count is a fraction rather than a completion.
 
